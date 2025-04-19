@@ -1,11 +1,17 @@
-package Nombre_Paquete;
+package nombre_paquete;
 
-public class NombreClase {
+public class Calculadora { //Cambia el nombre de la clase según sea necesario
     public static void main(String[] args) {
-        //Código de prueba para la clase (incluir aquí el código de prueba con la llamadas a los métodos)
+        // Prueba del método sumar
+        int resultado = sumar(5, 3);
+        System.out.println("Resultado: " + resultado); // Debería mostrar 8
     }
 
-    public static tipo_variable_a_devolver nombre_método(Parámetros) {
-        // Código del método (incluir aquí el código del método que se va a implementar)
+    public static int sumar(int a, int b) { 
+        /*
+         * Cambia el nombre del método y su funcionalidad según sea necesario
+         */
+        // Retorna la suma de dos números enteros
+        return a + b;
     }
 }
