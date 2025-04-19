@@ -1,3 +1,5 @@
+package Nivel_2;
+
 public class fibonacciRecursivo {
     public static void main(String[] args) {
         int n = 10; // Cambia este valor para calcular otros números de Fibonacci
