@@ -34,12 +34,12 @@ Se recomienda **no copiar directamente el código**, sino usarlo como guía _des
 
 ## 📂 Estructura del Repositorio
 
-'''
+```java
 /nivel-0-introduccion  
 /nivel-1-preparacion  
 /nivel-2-logica  
 /nivel-3-abstraccion  
 ...
-'''
+```
 
 ⭐ ¿Te ayudó este material? ¡Dale estrellita al repo y comparte tus propias soluciones en Issues o Pull Requests!
