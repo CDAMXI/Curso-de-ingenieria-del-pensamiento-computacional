@@ -8,7 +8,6 @@ Este repositorio contiene todos los **códigos de ejemplo** y **soluciones de lo
 
 - ✅ Código completo de todos los ejemplos vistos en clase  
 - ✅ Soluciones a los retos propuestos en cada nivel (factorial, Fibonacci, manejo de listas, abstracción, etc.)  
-- ✅ Proyectos terminados (calculadora, gestor de tareas, sistema de reservas, entre otros)  
 - ✅ Recursos adicionales (configuraciones recomendadas, templates útiles)
 
 ---
