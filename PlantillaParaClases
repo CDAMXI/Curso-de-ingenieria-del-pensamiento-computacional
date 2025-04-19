@@ -1,17 +1,16 @@
 package nombre_paquete;
 
-public class Calculadora { //Cambia el nombre de la clase según sea necesario
+// Cambia el nombre de la clase según sea necesario
+public class Calculadora {
     public static void main(String[] args) {
         // Prueba del método sumar
         int resultado = sumar(5, 3);
         System.out.println("Resultado: " + resultado); // Debería mostrar 8
     }
 
-    public static int sumar(int a, int b) { 
-        /*
-         * Cambia el nombre del método y su funcionalidad según sea necesario
-         */
-        // Retorna la suma de dos números enteros
-        return a + b;
+    public static int sumar(int a, int b) {
+        // Cambia el nombre y la funcionalidad del método según tu ejercicio
+        return a + b; // Retorna la suma de dos números enteros
     }
 }
+// Cambia el nombre del paquete según tu estructura de carpetas
