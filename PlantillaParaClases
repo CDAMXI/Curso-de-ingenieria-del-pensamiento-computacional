@@ -1,0 +1,11 @@
+package Nombre_Paquete;
+
+public class NombreClase {
+    public static void main(String[] args) {
+        //Código de prueba para la clase (incluir aquí el código de prueba con la llamadas a los métodos)
+    }
+
+    public static tipo_variable_a_devolver nombre_método(Parámetros) {
+        // Código del método (incluir aquí el código del método que se va a implementar)
+    }
+}
