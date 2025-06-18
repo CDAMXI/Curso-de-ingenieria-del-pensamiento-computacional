@@ -1,0 +1,6 @@
+def suma(a,b): # Cambia el nombre de la clase según sea necesario
+    # Prueba del método sumar
+    return a + b # Retorna la suma de dos números enteros
+
+resultado = suma(5, 3)
+print("Resultado:", resultado) # Debería mostrar 8
