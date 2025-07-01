@@ -1,14 +1,13 @@
-# 📚 Curso de Programación CDAMXI – Ejercicios y Ejemplos Resueltos
-
-Este repositorio contiene todos los **códigos de ejemplo** y **soluciones de los ejercicios prácticos** del curso _"Desarrollando la Mente de un Programador"_, organizados por niveles.
+# 📚 Curso de Ingeniería del Pensamiento Computacional – CDAMXI  
+_Este repositorio acompaña al curso universitario "Desarrollando la Mente de un Programador"_
 
 ---
 
 ## 🔍 Contenido
 
-- ✅ Código completo de todos los ejemplos vistos en clase  
-- ✅ Soluciones a los retos propuestos en cada nivel (factorial, Fibonacci, manejo de listas, abstracción, etc.)  
-- ✅ Recursos adicionales (configuraciones recomendadas, templates útiles)
+- ✅ Código completo de todos los ejemplos explicados en clase  
+- ✅ Soluciones a los retos propuestos por nivel (factorial, Fibonacci, listas, abstracción, etc.)  
+- ✅ Recursos adicionales: configuraciones recomendadas, templates útiles, enlaces externos
 
 ---
 
@@ -16,24 +15,35 @@ Este repositorio contiene todos los **códigos de ejemplo** y **soluciones de lo
 
 Este repositorio tiene como propósito ayudarte a:
 
-- 📊 Comparar tus soluciones con enfoques alternativos  
-- 🧠 Explorar buenas prácticas de código  
-- 🚀 Tener un punto de partida para tus propios proyectos
+- 📊 Comparar tus soluciones con distintos enfoques válidos  
+- 🧠 Explorar buenas prácticas de programación estructurada  
+- 🚀 Usar este material como base para tus propios proyectos o investigaciones
+
+---
+
+## 🛠️ Tecnologías usadas
+
+- Lenguaje: **Java**  
+- IDE recomendado: **Visual Studio Code**  
+- Extensiones sugeridas:  
+  - Extension Pack for Java  
+  - Error Lens  
+  - GitHub Copilot (opcional)
 
 ---
 
 ## 💡 Importante
 
 > Las soluciones aquí presentadas son solo **una forma posible** de resolver los problemas.  
-> ¡Tu versión puede ser **igualmente válida**!
+> Tu versión puede ser **igual de válida** si cumple con el objetivo y es clara.  
 
-Se recomienda **no copiar directamente el código**, sino usarlo como guía _después_ de intentar resolver los ejercicios por tu cuenta.
+Se recomienda **no copiar directamente el código**, sino consultarlo como referencia **después** de haber intentado resolver los ejercicios por cuenta propia.
 
 ---
 
 ## 📂 Estructura del Repositorio
 
-```java
+```
 /nivel-0-introduccion  
 /nivel-1-preparacion  
 /nivel-2-logica  
@@ -41,4 +51,8 @@ Se recomienda **no copiar directamente el código**, sino usarlo como guía _des
 ...
 ```
 
-⭐ ¿Te ayudó este material? ¡Dale estrellita al repo y comparte tus propias soluciones en Issues o Pull Requests!
+---
+
+## ⭐ ¿Te ayudó este material?
+
+Dale una estrellita ⭐ al repositorio y, si te animas, comparte tus soluciones o mejoras a través de un **Pull Request** o en la sección de **Issues**. ¡Construyamos juntos!
