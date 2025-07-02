@@ -1,3 +1,5 @@
+package Factorial;
+
 public class FactorialIterativo {
     public static void main(String[] args) {
         java.util.Scanner kbd = new java.util.Scanner(System.in);
