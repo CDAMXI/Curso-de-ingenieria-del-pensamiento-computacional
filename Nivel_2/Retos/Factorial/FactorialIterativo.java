@@ -1,4 +1,4 @@
-package Factorial;
+
 
 public class FactorialIterativo {
     public static void main(String[] args) {

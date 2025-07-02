@@ -1,5 +1,3 @@
-package Factorial;
-
 import java.util.*;
 
 public class FactorialRecursivo{
