@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class ParImpar{
     public static void main(String[] args) {
         Scanner kbd = new Scanner(System.in);
@@ -15,5 +17,7 @@ public class ParImpar{
                 System.out.println("El valor " + valor + " es impar.");
             }
         }
+
+        kbd.close();
     }
 }
