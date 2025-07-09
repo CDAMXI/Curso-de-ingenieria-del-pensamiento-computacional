@@ -17,7 +17,6 @@ public class ParImpar{
                 System.out.println("El valor " + valor + " es impar.");
             }
         }
-
         kbd.close();
     }
 }
