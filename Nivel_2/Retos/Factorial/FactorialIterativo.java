@@ -1,6 +1,8 @@
+import java.util.*;
+
 public class FactorialIterativo {
     public static void main(String[] args) {
-        java.util.Scanner kbd = new java.util.Scanner(System.in);
+        Scanner kbd = new java.util.Scanner(System.in);
         System.out.print("Ingrese un número entero no negativo: ");
         int n = kbd.nextInt();
         System.out.println(String.format("El factorial de %d es %d", n, Factorial(n)));
