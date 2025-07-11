@@ -1,3 +1,5 @@
+package Nivel_2.Ejemplos;
+
 public class EjemploPráctico {
     public static void main(String[] args){
         double fun1 = 3 + 4 / 2;
