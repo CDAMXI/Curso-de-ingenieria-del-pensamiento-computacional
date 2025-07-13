@@ -1,3 +1,5 @@
+package ValorMaxEnLista;
+
 public class ValorMaxEnLista{
     public static void main(String[] args) {
         System.out.println("El valor máximo en la lista es: " + MaxValue(new int[]{1, 3, 4, 2, 5})); // 5
