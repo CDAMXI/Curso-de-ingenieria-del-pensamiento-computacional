@@ -1,3 +1,5 @@
+package Nivel_5.Retos;
+
 import java.util.*;
 
 public class DividirDosNumeros {
