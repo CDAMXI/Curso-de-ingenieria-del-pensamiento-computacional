@@ -6,15 +6,12 @@ def factorial(n):
     return n * factorial(n - 1)
 
 def main():
-    try:
-        n = int(input("Ingrese un número entero no negativo: "))
-        resultado = factorial(n)
-        if resultado == -1:
-            print("El número debe ser no negativo.")
-        else:
-            print(f"El factorial de {n} es {resultado}")
-    except ValueError:
-        print("Entrada inválida. Por favor, ingrese un número entero.")
+    n = 5  # Cambia este valor para calcular otros números
+    resultado = factorial(n)
+    if resultado == -1:
+        print("El número debe ser no negativo.")
+    else:
+        print(f"El factorial de {n} es {resultado}")
 
 if __name__ == "__main__":
     main()
